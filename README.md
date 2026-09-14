@@ -32,3 +32,5 @@ O objetivo do projeto é aproximar a comunidade dos serviços de descarte corret
 1. Clone ou baixe este repositório.
 2. Sirva os arquivos por um servidor local (por exemplo, a extensão "Live Server" do VS Code), em vez de abrir o `index.html` diretamente pelo navegador.
 3. Acesse o endereço local indicado pelo servidor.
+
+Ou acesse [aqui](https://ecocoleta-md.vercel.app/).
